@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Asami Seto",
+    "givenName": "麻沙美",
+    "familyName": " 瀬戸",
+    "birthday": "1993-04-02",
+    "website": "ameblo.jp/seto-asami",
+    "images": ["https://cdn.myanimelist.net/images/voiceactors/3/65839.jpg"],
+    "more": {
+      "nickname": "null",
+      "birthplace": "Saitama Prefecture",
+      "agency": "Starcrew"
+    },
+    "socials": {
+      "x": "https://twitter.com/SETO_A_OFFICIAL",
+      "instagram": "https://www.instagram.com/SETO_ASAMI",
+      "youtube": "https://www.youtube.com/@Seto-Asami",
+      "Agency Website": "https://www.starcrew.co.jp/seto_asami"
+    }
+  }
+]
